@@ -1,0 +1,70 @@
+.body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #FFFFFF;
+	font-weight: bolder;
+	text-align: center;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-size: 24px;
+}
+.Table {
+	border: thin solid #FFFFFF;
+}
+.fields_left {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	color: #FFFFFF;
+	letter-spacing: normal;
+	text-align: left;
+	vertical-align: middle;
+	word-spacing: normal;
+	white-space: normal;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.my_fields {
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.id_card {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: bolder;
+	font-variant: normal;
+	text-transform: none;
+	color: #000099;
+	text-decoration: none;
+	background-position: right center;
+	letter-spacing: normal;
+	text-align: right;
+	word-spacing: normal;
+	white-space: normal;
+}
+.table2 {
+width: 90%;
+margin: 0 auto;
+font-family: Lucida Grande, Verdana, Helvetica, Arial, sans-serif;
+font-size: .9em;
+line-height: 1.4em;
+border-collapse: collapse;
+}
+.th2 {
+text-align: left;
+border-bottom: 1px solid #000;
+}
+.td2 {
+color: #333;
+border: 1px solid #ccc;
+}
